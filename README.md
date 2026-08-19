@@ -1,27 +1,27 @@
 # DevOps Health Check Dashboard
 
-A begineer-friendly DevOps portfolio project that checks the health of local services, displayes useful monitoring information, and gradually adds Docker, testing, logging, CI/CD, and security features
+A beginner-friendly DevOps portfolio project that checks the health of local services, displays useful monitoring information, and gradually adds Docker, testing, logging, CI/CD, and security features
 
 ## Project Purpose
 
 This project is being built as a hands-on Learning project during quiet work period in August.
 
-The goal is to build a safe, local-only monitoring dashboard that does not require access to any employer production systems. Everything will be developed using localhost, DOcker containers, mock services, and sample data.
+The goal is to build a safe, local-only monitoring dashboard that does not require access to any employer production systems. Everything will be developed using localhost, Docker containers, mock services, and sample data.
 
 ## Why I Am Building This
 
-I am using this project to learn pratical DevOps skills step by step from the ground up.
+I am using this project to learn practical DevOps skills step by step from the ground up.
 
 The project is designed to help me practice:
 
 - Linux fundamentals
-- Git and Github
+- Git and GitHub
 - Python or Bash scripting
 - Docker and container basics
 - Health checks and service monitoring
-- LOgging and troubleshooting
+- Logging and troubleshooting
 - Automated testing
-- CI/CD with Github Actions
+- CI/CD with GitHub Actions
 - Security scanning
 - Documentation and observability
 
@@ -40,7 +40,7 @@ Over time, this project will grow include:
 - Docker support
 - Basic logging
 - Automated tests
-- Github Actions CI pipeline
+- GitHub Actions CI pipeline
 - Security and quality checks
 - Better documentation and screenshots
 
@@ -51,6 +51,8 @@ devops-health-check-dashboard/
 ├─── app/
 ├─── docs/
 ├─── tests/
+├─── .gitignore
+├─── requirements.txt
 └─── README.md
-
 ```
+
